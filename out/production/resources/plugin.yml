@@ -1,0 +1,7 @@
+name: "PrefixSetup"
+main: "de.ellyrion.prefix.PrefixSystem"
+version: 1.0
+author: Cericx_
+
+commands:
+  prefixsetup:
